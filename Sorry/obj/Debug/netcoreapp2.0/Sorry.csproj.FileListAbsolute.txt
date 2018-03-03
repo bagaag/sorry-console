@@ -1,0 +1,16 @@
+/home/matt/insync-home/Projects/Sorry/Sorry/bin/Debug/netcoreapp2.0/Sorry.deps.json
+/home/matt/insync-home/Projects/Sorry/Sorry/bin/Debug/netcoreapp2.0/Sorry.dll
+/home/matt/insync-home/Projects/Sorry/Sorry/bin/Debug/netcoreapp2.0/Sorry.pdb
+/home/matt/insync-home/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.csproj.CoreCompileInputs.cache
+/home/matt/insync-home/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.AssemblyInfoInputs.cache
+/home/matt/insync-home/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.AssemblyInfo.cs
+/home/matt/insync-home/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.dll
+/home/matt/insync-home/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.pdb
+/home/matt/Projects/Sorry/Sorry/bin/Debug/netcoreapp2.0/Sorry.deps.json
+/home/matt/Projects/Sorry/Sorry/bin/Debug/netcoreapp2.0/Sorry.dll
+/home/matt/Projects/Sorry/Sorry/bin/Debug/netcoreapp2.0/Sorry.pdb
+/home/matt/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.csproj.CoreCompileInputs.cache
+/home/matt/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.AssemblyInfoInputs.cache
+/home/matt/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.AssemblyInfo.cs
+/home/matt/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.dll
+/home/matt/Projects/Sorry/Sorry/obj/Debug/netcoreapp2.0/Sorry.pdb

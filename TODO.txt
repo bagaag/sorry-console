@@ -1,0 +1,21 @@
+Auto turns
+Allow specification of computer opponent(s)
+Swap "auto" with "pass" as default
+Pull auto turn logic out of ConsolePlayer
+Add color to console board
+
+____________________________________________
+Completed
+
+12/30/2017
+Default move distance to current card
+Periods after console messages
+
+Prompt for players
+Fix candidates off-by-one bug
+Fix replace argument order
+
+12/29/2017
+Display MoveResult contents after move
+Combine info, pawns and distance into single command
+Translate position to console (Safety 5-1, Home, Start)
