@@ -1,6 +1,6 @@
 # Sorry Console
 
-This is a termina/console implementation of the popular board game, Sorry. It requires .Net Core. It has been tested on both Windows 10 and Arch Linux. 
+This is a terminal/console implementation of the popular board game, Sorry. It requires .Net Core. It has been tested on both Windows 10 and Arch Linux. 
 
 To use:
 
@@ -50,6 +50,7 @@ From there, you'll see:
 	  move # [#]      Move specified current player's pawn specied number of spaces
 	  pass            End current turn
 	  replace # #     Replace opponent pawn with current player pawn
+	> 
 
 ## Status
 
